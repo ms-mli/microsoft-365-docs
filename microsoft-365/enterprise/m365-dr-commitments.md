@@ -25,6 +25,9 @@ ms.collection:
 > If you have purchased a Multi-Geo subscription, then Microsoft will store certain customer data at rest in more than one Geography based on your configuration even if you have purchased the Microsoft 365 Advanced Data Residency add-on ("ADR").
 
 > [!NOTE]
+> The Advanced Data Residency (ADR) commitment applies exclusively to commercial customers. Education license customers are advised to contact their account team to discuss data residency requirements.
+> 
+> [!NOTE]
 > Viva Topics has been retired as of February 22, 2025. Therefore, Viva Topics is no longer a supported workload in ADR. For more details, please visit [aka.ms/TopicsFebSupport](https://aka.ms/TopicsFebSupport).
 
 Microsoft makes commitments to store certain customer data at rest in the applicable _Local Region Geography_ for [eligible customers](advanced-data-residency.md#eligibility) that purchase ADR. The commitments are specified as follows.  
